@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/PokeFAV/static/css/main.88c56728.chunk.css",
+    "main.js": "/PokeFAV/static/js/main.596a31be.chunk.js",
+    "main.js.map": "/PokeFAV/static/js/main.596a31be.chunk.js.map",
+    "runtime-main.js": "/PokeFAV/static/js/runtime-main.3fc4c271.js",
+    "runtime-main.js.map": "/PokeFAV/static/js/runtime-main.3fc4c271.js.map",
+    "static/css/2.e7166e2e.chunk.css": "/PokeFAV/static/css/2.e7166e2e.chunk.css",
+    "static/js/2.65bd8fd5.chunk.js": "/PokeFAV/static/js/2.65bd8fd5.chunk.js",
+    "static/js/2.65bd8fd5.chunk.js.map": "/PokeFAV/static/js/2.65bd8fd5.chunk.js.map",
+    "static/js/3.2ba8a8d9.chunk.js": "/PokeFAV/static/js/3.2ba8a8d9.chunk.js",
+    "static/js/3.2ba8a8d9.chunk.js.map": "/PokeFAV/static/js/3.2ba8a8d9.chunk.js.map",
+    "index.html": "/PokeFAV/index.html",
+    "static/css/2.e7166e2e.chunk.css.map": "/PokeFAV/static/css/2.e7166e2e.chunk.css.map",
+    "static/css/main.88c56728.chunk.css.map": "/PokeFAV/static/css/main.88c56728.chunk.css.map",
+    "static/js/2.65bd8fd5.chunk.js.LICENSE.txt": "/PokeFAV/static/js/2.65bd8fd5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3fc4c271.js",
+    "static/css/2.e7166e2e.chunk.css",
+    "static/js/2.65bd8fd5.chunk.js",
+    "static/css/main.88c56728.chunk.css",
+    "static/js/main.596a31be.chunk.js"
+  ]
+}
